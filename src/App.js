@@ -6,10 +6,13 @@ import logo from './images/logo.png'
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <div className="App">
       <Header/>
       <Shop/>
     </div>
+    </>
+    
   );
 }
 
